@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-labelledby="title desc">
+  <title id="title">Hambúrguer vegetal</title>
+  <desc id="desc">Ilustração de hambúrguer com hambúrguer vegetal e salada.</desc>
+  <rect width="640" height="480" rx="42" fill="#e7f1da"/>
+  <ellipse cx="320" cy="371" rx="216" ry="27" fill="#dba88f" opacity=".45"/>
+  <path d="M134 196c19-87 92-130 186-130s167 43 186 130H134Z" fill="#e89224"/>
+  <path d="M145 207h350c20 0 35 15 35 34s-15 34-35 34H145c-20 0-35-15-35-34s15-34 35-34Z" fill="#6a6835"/>
+  <path d="m141 282 72-29 68 29 76-29 73 29 68-29 13 47H130l11-18Z" fill="#f3be31"/>
+  <path d="M161 301c68-30 91 32 150 2s90 28 159 1" fill="none" stroke="#467b28" stroke-width="22" stroke-linecap="round"/>
+  <path d="M145 343h350c0 53-54 77-175 77s-175-24-175-77Z" fill="#d8751d"/>
+  <g fill="#fff3c4">
+    <ellipse cx="228" cy="128" rx="7" ry="3" transform="rotate(-20 228 128)"/>
+    <ellipse cx="316" cy="101" rx="7" ry="3" transform="rotate(18 316 101)"/>
+    <ellipse cx="412" cy="143" rx="7" ry="3" transform="rotate(-12 412 143)"/>
+  </g>
+</svg>
